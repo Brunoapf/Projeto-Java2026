@@ -1,3 +1,12 @@
+<img width="752" height="713" alt="image" src="https://github.com/user-attachments/assets/782e6780-701e-421a-ad81-dfa94045ba86" />
+<img width="751" height="212" alt="image" src="https://github.com/user-attachments/assets/5b472ae8-c922-47f2-82f5-4d83c7b9ab73" />
+<img width="708" height="241" alt="image" src="https://github.com/user-attachments/assets/c210c17b-82c9-40eb-8e0a-f1c69eecab36" />
+<img width="642" height="168" alt="image" src="https://github.com/user-attachments/assets/648cd594-1622-4297-a839-db393d012b3b" />
+<img width="635" height="278" alt="image" src="https://github.com/user-attachments/assets/4a64f716-a0ae-437c-8ec5-5ac1ead21fd0" />
+
+
+
+
 # 🎓 Aluno Online API
 
 API backend desenvolvida em Java com Spring Boot para gerenciamento acadêmico de alunos, matrículas e disciplinas. O projeto simula o funcionamento de um sistema acadêmico real, aplicando conceitos modernos de desenvolvimento backend, arquitetura em camadas e construção de APIs RESTful.
